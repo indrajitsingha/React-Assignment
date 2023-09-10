@@ -11,8 +11,8 @@ Currently, two official plugins are available:
 its a simple project its an e-commerce website's product page, with user-friendly design, which includes features like search, filters, product
 details, reviews, and related product suggestions.  
 this points are covered
-===> Product Page 
-===> Search Option
+- ===> Product Page 
+- ===> Search Option
 ===> search by Category
 ===> search by Brand
 ====> Product Details
