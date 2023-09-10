@@ -19,7 +19,7 @@ this points are covered
 ====> Realted Products
 
 =========>for Mock Data i used : https://dummyjson.com/products
-  
+====> Technologies are used in this Project  : HTML , Tailwind CSS , Recat js , Redux Toolkit  ,Javascript 
 
 github repository : https://github.com/indrajitsingha/React-Assignment
 
